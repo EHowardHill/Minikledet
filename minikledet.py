@@ -88,7 +88,7 @@ class HebrewKeyboard(QMainWindow):
             y += 32
 
         # עותק
-        button = QPushButton("Copy / עותק", self)
+        button = QPushButton("Copy / העתק", self)
         button.clicked.connect(partial(self.copy_text))
         button.setGeometry(5,295,320,32)
 
