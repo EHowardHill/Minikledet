@@ -5,6 +5,8 @@ from PySide6.QtCore import Qt
 from PySide6.QtGui import QTextCursor, QTextDocument, QIcon
 from PySide6.QtWidgets import QVBoxLayout, QApplication, QMainWindow, QTextEdit, QPushButton
 
+# Random new line
+
 reference = {
     'C':'ק',
     'r':'ר',
